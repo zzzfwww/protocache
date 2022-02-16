@@ -1,6 +1,6 @@
 # 极客兔兔7天go cache系列
 
-## 主要变动
+## update
 ### 更新一下protoc版本
 - protoc-gen-go v1.27.1
 - protoc        v3.14.0
